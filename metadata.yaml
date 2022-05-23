@@ -1,0 +1,25 @@
+_repo: Juke-Box_68107
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Smith, Woodrow Wilson
+    gutenberg_agent_id: '54603'
+    url: http://www.gutenberg.org/2009/agents/54603
+description: ''
+gutenberg_issued: '2022-05-17'
+identifiers:
+  gutenberg: '68107'
+language: en
+pgterms:marc905: 20220512081852smith
+pgterms:marc906: '1946'
+pgterms:marc907: US
+production_note: Greg Weeks, Mary Meehan, Alex White & the online Distributed Proofreaders
+  Canada team at https://www.pgdpcanada.net
+publication_note: United States :Standard Magazines, Inc.,1946.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Juke-Box
+url: http://www.gutenberg.org/ebooks/68107
